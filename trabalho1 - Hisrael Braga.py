@@ -43,7 +43,7 @@ if __name__ == '__main__':
         if i != " ":
             stack.input(i)
 
-    if stack.ispalindrome():         #testa se a palavra é palíndroma e exibe o resultado
+    if stack.ispalindrome():         #testa se a palavra é palíndroma e exibe o resultado 
         print("sim")
     else:
         print("nao")
