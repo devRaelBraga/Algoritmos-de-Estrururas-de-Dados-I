@@ -12,9 +12,9 @@ Portanto, o programa dever ́a retornar 1.
 
 ### 3 Descrição da função
 
-O programa dever ́a ter, obrigatoriamente, uma fun ̧c ̃ao de nome testaCiclo (head) que receber ́a
-o ponteiro para o primeiro elemento da lista e retornar o valor 1 (h ́a ciclo) ou 0 (n ̃ao h ́a ciclo).
-N ̃ao  ́e permitido o uso de arrays e nem o tipo List de Python.
+O programa dever ́a ter, obrigatoriamente, uma função de nome testaCiclo (head) que receberá
+o ponteiro para o primeiro elemento da lista e retornar o valor 1 (há ciclo) ou 0 (não há ciclo).
+Não  ́e permitido o uso de arrays e nem o tipo List de Python.
 
 ### 4 Entrada e Sa ́ıda de Dados
 O arquivo de entrada estará no formato texto e terá uma sequência de valores numéricos. A saída
